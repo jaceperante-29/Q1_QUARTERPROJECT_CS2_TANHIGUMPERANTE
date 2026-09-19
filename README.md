@@ -13,7 +13,7 @@
 ##### Library "os"
 
 # How to run
-###### enter code in a python compiler like programiz or online gdb and run the code there
+##### Enter code in a python compiler like programiz or online gdb and run the code there
 
 # SAMPLE INTERACTION
 ##### 
